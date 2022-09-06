@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+    color: darkblue;
+    
+}
+#cim{
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+}
+
+h2{
+    color: crimson;
+}
+#tablazat{
+    width: 400px;
+    margin:0 auto;
+}
+#kep1{
+    height: 230;
+    width: 153;
+    padding-right: 150px;
+}
+#kep2{
+    height: 230px;
+    width: 153px;
+    margin: 1px;
+    float: right;
+}
